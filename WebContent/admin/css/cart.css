@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.cartbody{margin-top:110px;}
+.cartfoot{ position:absolute;left:0px;right:0px;margin-top:350px;width:1290px;text-align:center;background-color:rgb(220,220,220);z-index:1}
+.p3{position:absolute;left:330px;margin-top:200px;background-color: rgba(192, 192, 192, 0.29);z-index:1} 
+.p4{position:absolute;left:60px;margin:100px auto auto 160px;width:280px;height:380px;z-index:1}

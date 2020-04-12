@@ -1,0 +1,26 @@
+     body{width:1300;}
+    .p1{width:100%;height:90px;left:0px;right:1px;}
+    .p2{position:absolute;top:110px;width:100%;height:60px;left:0px;right:1px;background-color:rgb(46,46,46);z-index:1}
+    .ri{position:fixed ;top:0px;height:800px;width:50px;right:1px;background-color:rgb(46,46,46);z-index:4;}
+    .ul_dh{list-style-type:none;overflow:hidden;padding-left:0px;margin-top:180px;text-align:center;}
+    .ri a{ text-decoration:none; display:block; color:#ffffff; cursor:pointer}
+    .li_dh:hover{background-color:rgb(255,80,10);} 
+     #album{ list-style-type:none;margin:0 0 0 200;padding:0;text-align:center;}
+     #album li{ float:left; width:150px;line-height:60px;}
+     #album a{ text-decoration:none; display:block; color:#ffffff; cursor:pointer}
+     #album a:hover{ background-color:rgb(255,80,10);}
+     
+     .p3{position:absolute;top:200px;width:88%;height:620px;left:4%;margin:0 auto;padding:0;background-color:rgb(244,244,244);}
+     .p3 a{ text-decoration:none;cursor:pointer}
+     .foot{position:absolute;top:750px;width:99%;height:200px;background-color:rgb(200,200,200);}
+     
+     table{padding:2; border:1px;text-align:center;background-color:rgb(248,248,248);} 
+    .reg-title{font-size:20px;line-height:55px; font-weight:bold; color:#ff3300;}
+    .emphasize{color:#ff0000;display:none;font-weight:900;}
+    .inputTitle{border:1px;text-align:right}
+    input{border:1px solid #cccccc; width:200px; margin:2px;} 
+    textarea{border:1px #c3c3c3 solid; overflow-x:auto; overflow-y:hidden; width:200px; }  
+    .button{ width:60px; margin-right:5px;}
+	table{font-family:ºÚÌå; font-size:17px;}
+	input{height:40px;width:260px;font-family:ºÚÌå; font-size:17;border-radius:5px;}
+	.radioInput{ width:50px;height:50px; margin:2px;}

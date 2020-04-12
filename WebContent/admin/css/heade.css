@@ -1,0 +1,6 @@
+.p2{position:absolute;top:110px;width:100%;left:0px;right:0px;background-color:rgb(46,46,46);z-index:1}
+.album{ list-style-type:none;margin:0 auto auto 200px;padding:0;align:center;}
+.album li{ float:left;display:inline;width:180px;line-height:60px;} /*  */
+.album a{ text-decoration:none;padding-left:40px; padding-top:20px; padding-bottom:21px;padding-right:40px;color:#ffffff;}
+a{ text-decoration:none; display:inline; color:#ffffff;}
+.album a:hover{ background-color:rgb(255,80,10);}

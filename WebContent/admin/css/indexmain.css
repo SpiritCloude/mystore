@@ -1,0 +1,37 @@
+@charset "UTF-8";
+ body{font-family:隶属;}
+ img { width: 100%; }
+.li_img { width: 900px; height:360px; float: left; list-style: none; }
+.ul_img { width: 6000px; padding: 0px; margin: 0px; transition: all 2s; }
+.main_div { width: 900px; overflow: hidden; position: relative;top:0px;left:0px;right:1px; }
+.arrows { z-index: 9999; position: absolute; padding-top: 150px; width: 900px; }
+.arrows span { font-size: 3em; color: seashell; }
+.arrows span:hover {cursor: pointer; background-color: rgba(192, 192, 192, 0.29); }
+.div_btn { float: left; border-radius: 100px; background-color: aquamarine; width: 60px; height: 10px; margin-left: 10px; margin-top: 1px;}
+.div_btn:hover { background-color: aqua; }
+
+.ri{position:fixed ;top:0px;height:800px;width:50px;right:1px;background-color:rgb(46,46,46);z-index:2}
+.p1{width:100%;height:90px;left:0px;right:0px;z-index:1}
+.p2{position:absolute;top:110px;width:100%;left:0px;right:0px;background-color:rgb(46,46,46);z-index:1}
+.p3{position:absolute;left:330px;top:190px;background-color: rgba(192, 192, 192, 0.29);z-index:1} 
+.p4{position:absolute;left:60px;top:180px;width:250;height:380px;z-index:1}
+.q1{position:absolute;left:60px;top:600px;z-index:1}
+.q2{position:absolute;left:308px;top:600px;z-index:1}
+.q3{position:absolute;top:800px;z-index:1}
+.foot{ position:absolute;left:0px;right:0px;top:2150px;width:100%;text-align:center;background-color:rgb(220,220,220);z-index:1}
+
+.album{ list-style-type:none;margin:0 auto auto 200px;padding:0;text-align:center;}
+.album li{ float:left;display:inline;width:180px;line-height:60px;} /*  */
+.album a{ text-decoration:none;padding-left:40px; padding-top:20px; padding-bottom:21px;padding-right:40px;color:#ffffff;}
+a{ text-decoration:none; display:inline; color:#ffffff;}
+.album a:hover{ background-color:rgb(255,80,10);}
+.menu{ width:250px; height:380px;background-color:rgb(255,101,54);text-align:center; color:white}
+.menu th{ width:90%;background-color:rgb(232,83,37);font-size:17px;line-height:0.2; }
+.menu td{ font-size:16px;line-height:0.2;color:white}
+.menu.seq{ width:200px:}
+.menu a:hover{ background-color:rgb(255,80,10);padding:3px;}
+.box1{ margin-top:10px;width:250px;height:200px;font-size:18px;color:white;background-color:rgb(225,101,54);}
+.box2{ width:900px;text-align:center;}
+.cl{background-color:rgb(225,101,54);}
+.ul_dh{list-style-type:none;overflow:hidden;padding-left:0px;margin-top:180px;text-align:center;font-size:16px;}
+.li_dh:hover{background-color:rgb(255,80,10);} 

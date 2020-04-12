@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.p3 {
+	position: absolute;
+	top: 170px;
+	width: 99%;
+	height: 300px;
+	right: 0;
+	left: 0%;
+}
+
+.p4 {
+	position: absolute;
+	top: 460px;
+	width: 1100px;
+	padding-top:80px;
+	padding-left:60px;
+	left: 80px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: rgb(220, 220, 220,0.5);
+}
+.p4 img{
+	width: 360px;
+	height: 330px;
+}
+.discountfoot {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 1600px;
+	width:100%;
+	text-align: center;
+	background-color: rgb(220, 220, 220);
+	z-index: 1
+}

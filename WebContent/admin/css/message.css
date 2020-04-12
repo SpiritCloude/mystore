@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.p4{position:absolute;left:60px;top:180px;width:250;height:380px; z-index:1}
+.connectfoot{ position:absolute;left:0px;right:0px;top:1050px;width:1290px;text-align:center;background-color:rgb(220,220,220);z-index:1}
+.menu{ width:250px; height:380px;background-color:rgb(255,101,54);text-align:center; color:white}
+.menu th{ width:90%;background-color:rgb(232,83,37);font-size:17px;line-height:0.2; }
+.menu td{ font-size:16px;line-height:0.2;color:white}
+.menu.seq{ width:200px:}
+.menu a:hover{ background-color:rgb(255,80,10);padding:3px;}
+
+.msg1{position:absolute;left:10px;right:10px;top:180px;background-color:rgba(220, 220, 220, 1);}
+.msg2{position:absolute;left:80px;top:450px;width:8px;background-color:rgb(250,80,9);}
+.msg3{position:absolute;left:90px;top:450px;width:1000px;color:darkorange; font-size:1.4em;}
+.msg4{position:absolute;left:110px;top:500px;width:1000px;height:400px;}

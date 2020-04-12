@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.p3 {
+	position: absolute;
+	top: 170px;
+	width: 99%;
+	height: 300px;
+	right: 0;
+	left: 0%;
+	background-color: rgb(222, 222, 222);
+}
+
+.p4 {
+	position: absolute;
+	top: 500px;
+	width: 438px;
+	height: 575px;
+	right: 100px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: rgb(253, 253, 253);
+}
+
+.p5 {
+	position: absolute;
+	top: 550px;
+	width: 700px;
+	height: 535px;
+	left: 80px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: rgb(253, 253, 253);
+}
+
+.p6 {
+	position: absolute;
+	top: 1160px;
+	width: 1230px;
+	height: 980px;
+	left: 60px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: rgb(253, 253, 253);
+}
+
+.freshfoot {
+	position: absolute;
+	top:2200px;
+	width: 100%;
+	height: 245px;
+	text-align: center;
+	background-color: rgb(253, 253, 253);
+}
