@@ -37,7 +37,7 @@
 
 ##### 首页
 
-<img src="https://github.com/SpiritCloude/mystore/raw/master/WebContent/admin/img/indexpage.png" alt="首页" style="zoom:50%;" />
+<img src="WebContent/admin/img/indexpage.png" alt="首页" style="zoom:50%;" />
 
 ##### 商品详情
 
