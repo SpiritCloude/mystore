@@ -23,9 +23,13 @@
 
 - WebContent
 
+  - login 登陆/注册
+  
   - admin 商品浏览下单
+    - 订单查看，购物车，收藏 
 
   - manager 后台管理
+    - 用户管理
 
     
 
